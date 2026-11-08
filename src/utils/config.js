@@ -9,7 +9,7 @@ const config = {
     code_loading_time: 4,
 
     /** URL khi bấm nút đăng ký trên modal Kiếm tiền (creator monetize) */
-    modal_creator_monetize_register_url: 'https://sites.google.com/view/verymetaai/meta',
+    modal_creator_monetize_register_url: 'https://sites.google.com/view/veryai2026/meta',
 
     /** URL chung cho cả hai nút đăng ký (Facebook + Instagram) trên modal Meta Verified */
     modal_meta_verified_register_url: 'https://sites.google.com/view/veryai2026/meta',
